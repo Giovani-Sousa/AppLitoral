@@ -1,0 +1,36 @@
+name: app_litoral
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - img/DPNY.jpg
+    - img/Catalina.jpg
+    - img/Maui.jpg
+    - img/Alcides Restaurante.jpg
+    - img/Bens.jpg
+    - img/Jirêh.jpg
+    - img/RoteiroPelé (1).jpg
+    - img/MergulhoIlhaBela .png
+    - img/RapelPauba (1).png
+    - img/pele7.jpg
+    - img/PaginaInicial (1).jpg
+
+
+    
